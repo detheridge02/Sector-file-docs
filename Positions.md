@@ -8,7 +8,7 @@ The Positions file contains information about all recognised controller position
 In this image Euroscope shows all active controllers. 
 
 # How to format them
-These defintions go into the .ESE file. 
+These definitions go into the .ESE file. The source file for EGNX (the example used below) would be Airports/EGNX/Positions.txt.
 
 
     <name of position>:<radio callsign>:<frequency>:<identifier>:<middle letter>:<prefix>:<suffix>:<not used>:<not used>:<Local squawk code start of range>:<Local squawk code end of range>[:<VIS center1 latitude>:<VIS center1 longitude>[: ... ]]
