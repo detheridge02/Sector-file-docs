@@ -5,7 +5,7 @@ The Positions file contains information about all recognised controller position
 # What do they look like in Euroscope?
 ![live positions](images/positions.png)
 
-In this image Euroscope shows all active controllers. In the Positions.txt file for EGNX you would create 
+In this image Euroscope shows all active controllers. 
 
 # How to format them
 These defintions go into the .ESE file. 
