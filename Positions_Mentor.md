@@ -8,7 +8,7 @@ The Positions_Mentor file contains information about all recognised controller m
 In this image Euroscope shows all active controllers. Mentor positions can either be identified by the three character identifier field (for example NXTM) or name of position. In the image above LON_NM_CTR is a mentor position. 
 
 # How to format them
-These definitions go into the .ESE file. The source file for EGNX (the example used below) would be Airports/EGNX/Positions_Mentor.txt.
+These definitions go into the .ESE file. The source file for the Tower mentor position at EGNX (the example used below) would be Airports/EGNX/Positions_Mentor.txt.
 
 
     <name of position>:<radio callsign>:<frequency>:<identifier>:<middle letter>:<prefix>:<suffix>:<not used>:<not used>:<Local squawk code start of range>:<Local squawk code end of range>[:<VIS center1 latitude>:<VIS center1 longitude>[: ... ]]
