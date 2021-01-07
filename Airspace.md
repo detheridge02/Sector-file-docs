@@ -12,7 +12,7 @@ On the Euroscope SMR view this airspace is represented as the area highlighted i
 # How to format them
 The source file for the AIRSPACE definitions can be found in the Airspace.txt file. For EGNX this file would be /Airports/EGNX/Airspace.txt. Each line in the file provides the coordinates for Euroscope to draw a line on the SMR screen. The first coordinates must match the final coordinates to form a closed area. 
 
-    [name of airspace] [start point coordinates] [end point coordinates]
+    <name of airspace> <start point coordinates> <end point coordinates>
 
 E.g. 
 
